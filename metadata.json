@@ -1,0 +1,8 @@
+
+{
+  "name": "Segmenta",
+  "description": "A professional deterministic production studio for high-performance ad creation using Gemini 3.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
